@@ -82,30 +82,30 @@
   },
    {
     "id": 10,
-    "name": "Bauang Grape Farms",
-    "imageUrl": "http://www.greedypeg.net/p/2016/06/25/41141_1.jpg",
-    "price": 0,
+    "name": "Mayon Volcano, Albay",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfTu9zPyonTpI_EQyHIkl5z3hrf3atY9CCTqJpS4eatLEVnF-Kmg",
+    "price": 795,
     "priceCurrency": "km",
-    "lat": 16.4611,
-    "lng": 120.3339
+    "lat": 13.2548,
+    "lng": 123.6861
   },
   {
     "id": 11,
-    "name": "Bauang Grape Farms",
-    "imageUrl": "http://www.greedypeg.net/p/2016/06/25/41141_1.jpg",
-    "price": 0,
+    "name": "Banaue Rice Terraces, Ifugao",
+    "imageUrl": "http://achividaryan.files.wordpress.com/2011/11/banaue-rice-terraces.jpg",
+    "price": 182,
     "priceCurrency": "km",
-    "lat": 16.4611,
-    "lng": 120.3339
+    "lat": 16.9240,
+    "lng": 121.0556
   },
   {
     "id": 12,
-    "name": "Bauang Grape Farms",
-    "imageUrl": "http://www.greedypeg.net/p/2016/06/25/41141_1.jpg",
+    "name": "Pagsanjan Falls",
+    "imageUrl": "https://c8.alamy.com/comp/CFDHDA/tourists-in-boats-in-front-of-pagsanjan-falls-laguna-luzon-island-CFDHDA.jpg",
     "price": 0,
     "priceCurrency": "km",
-    "lat": 16.4611,
-    "lng": 120.3339
+    "lat": 14.2627,
+    "lng": 121.4989
   },
   {
     "id": 13,
