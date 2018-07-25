@@ -5,62 +5,62 @@
     "imageUrl": "https://static1.squarespace.com/static/53d0ae52e4b0e86a1a66a618/t/5655e333e4b05079e498533f/1448469302236/DSCF0952.jpg?format=1500w",
     "price": 1345,
     "priceCurrency": "km",
-    "lat": 16.6436,
-    "lng": 120.4488
+    "lat": 9.1732,
+    "lng": 124.7299
   },
   {
     "id": 2,
-    "name": "Bahay na Bato",
-    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_01.jpg",
-    "price": 20,
+    "name": "Coron, Palawan",
+    "imageUrl": "https://i1.wp.com/fatgirlsdayout.com/wp-content/uploads/2017/05/coron-2.jpg",
+    "price": 746,
     "priceCurrency": "km",
-    "lat":  16.8472,
-    "lng": 120.3517    
+    "lat":  12.0499,
+    "lng": 120.1782
   },
   {
     "id": 3,
-    "name": "Pebble Beach of Luna",
+    "name": "El Nido, Palawan",
     "imageUrl": "https://jamielibots.files.wordpress.com/2017/03/wp-1488502832256.jpg",
-    "price": 150,
+    "price": 920,
     "priceCurrency": "km",
-    "lat": 16.8393,
-    "lng": 120.3382
+    "lat": 11.2097,
+    "lng": 119.4623
   },
   {
     "id": 4,
-    "name": "Surfing in San Juan",
-    "imageUrl": "http://2.bp.blogspot.com/-36kNZ6wz5U8/UcFhGnBBYtI/AAAAAAAAB0Y/N61QTERVv2Q/s640/surfing-in-la-union.JPG",
-    "price": 200,
+    "name": "Boracay, Aklan",
+    "imageUrl": "http://photos.wikimapia.org/p/00/00/42/33/96_big.jpg",
+    "price": 745,
     "priceCurrency": "km",
-    "lat": 16.6582,
-    "lng": 120.3291
+    "lat": 11.9674,
+    "lng": 121.9248
   },
   {
     "id": 5,
-    "name": "Namacpacan Church",
-    "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2018/03/Namacpacan-Church-750x400.jpg",
-    "price": 0,
+    "name": "Tagaytay",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TagaytayCity.jpg/1200px-TagaytayCity.jpg",
+    "price": 372,
     "priceCurrency": "km",
-    "lat": 16.8534985,
-    "lng": 120.3765828
+    "lat": 14.1153,
+    "lng": 120.9621
   },
   {
     "id": 6,
-    "name": "Pindangan Ruins",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b4/7d/ad/pindangan-ruins.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
-    "lat": 16.5881,
-    "lng": 120.3146
+    "name": "Vigan",
+    "imageUrl": "https://farm4.staticflickr.com/3852/15174802089_28f951ffbe_o.jpg",
+    "price": 109,
+    "priceCurrency": "km",
+    "lat": 17.5705,
+    "lng": 120.3873
   },
   {
     "id": 7,
-    "name": "Bauang Grape Farms",
-    "imageUrl": "http://www.greedypeg.net/p/2016/06/25/41141_1.jpg",
-    "price": 0,
+    "name": "Tubbataha Reefs Natural Park",
+    "imageUrl": "http://1.bp.blogspot.com/-7Io_Sra-NIQ/UQZzCQ_ZpUI/AAAAAAAAAK0/ywktfHLYcXY/s640/Tubbataha.jpg",
+    "price": 1109,
     "priceCurrency": "km",
-    "lat": 16.4611,
-    "lng": 120.3339
+    "lat": 8.8500,
+    "lng": 119.9333
   },
    {
     "id": 8,
