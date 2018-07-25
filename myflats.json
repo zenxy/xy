@@ -110,7 +110,7 @@
   {
     "id": 13,
     "name": "MY HOME ADDRESS",
-    "imageUrl": "https://github.com/zenxy/xy/blob/master/bhay.jpg",
+    "imageUrl": "https://github.com/zenxy/xy/blob/master/bhay.jpg?raw=true",
     "price": 0,
     "priceCurrency": "km",
     "lat": 16.8447,
