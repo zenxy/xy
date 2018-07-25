@@ -64,21 +64,21 @@
   },
    {
     "id": 8,
-    "name": "Macho Temple",
-    "imageUrl": "http://ttnotes.com/images/macho-pagoda-san-juan-la-union-7.jpg",
-    "price": 0,
+    "name": "Bohol Chocolate Hills",
+    "imageUrl": "https://www.zamboanga.com/z/images/6/66/Bohol_chocolate_hills.jpg",
+    "price": 1228,
     "priceCurrency": "km",
-    "lat": 16.6212,
-    "lng": 120.3175
+    "lat": 9.8500,
+    "lng": 124.1435
   },
    {
     "id": 9,
-    "name": "Christ The Redeemer Statue",
-    "imageUrl": "http://1.bp.blogspot.com/-xag5MxJfzLk/UshCgCKpprI/AAAAAAAAWBQ/2_TxF3squNY/s1600/Ivisan,+Capiz+(1).jpg",
-    "price": 0,
+    "name": "Kalanggaman Island, Leyte",
+    "imageUrl": "https://i2.wp.com/www.awanderfulsole.com/wp-content/uploads/2017/08/DSC_0368.jpg?fit=1800%2C1200&ssl=1",
+    "price": 1206,
     "priceCurrency": "km",
-    "lat": 16.6204,
-    "lng": 120.3190
+    "lat": 10.862454	,
+    "lng": 124.881119	
   },
    {
     "id": 10,
