@@ -1,0 +1,101 @@
+[
+  {
+    "id": 145,
+    "name": "Tangadan Falls",
+    "imageUrl": "http://4.bp.blogspot.com/-MAht8ICbD3M/Vu41_I_PJDI/AAAAAAAACHo/c37ER777GAojS38L6HKm9fZ1L1I3pl-rQ/s1600/DSC_6982.jpg",
+    "price": 25,
+    "priceCurrency": "km",
+    "lat": 16.6436,
+    "lng": 120.4488
+  },
+  {
+    "id": 148,
+    "name": "Bahay na Bato",
+    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_01.jpg",
+    "price": 20,
+    "priceCurrency": "km",
+    "lat":  16.8472,
+    "lng": 120.3517    
+  },
+  {
+    "id": 201,
+    "name": "Pebble Beach of Luna",
+    "imageUrl": "https://jamielibots.files.wordpress.com/2017/03/wp-1488502832256.jpg",
+    "price": 150,
+    "priceCurrency": "km",
+    "lat": 16.8393,
+    "lng": 120.3382
+  },
+  {
+    "id": 205,
+    "name": "Surfing in San Juan",
+    "imageUrl": "http://2.bp.blogspot.com/-36kNZ6wz5U8/UcFhGnBBYtI/AAAAAAAAB0Y/N61QTERVv2Q/s640/surfing-in-la-union.JPG",
+    "price": 200,
+    "priceCurrency": "km",
+    "lat": 16.6582,
+    "lng": 120.3291
+  },
+  {
+    "id": 210,
+    "name": "Namacpacan Church",
+    "imageUrl": "https://explore.traveloka.com/wp-content/uploads/2018/03/Namacpacan-Church-750x400.jpg",
+    "price": 0,
+    "priceCurrency": "km",
+    "lat": 16.8534985,
+    "lng": 120.3765828
+  },
+  {
+    "id": 211,
+    "name": "Pindangan Ruins",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b4/7d/ad/pindangan-ruins.jpg",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.5881,
+    "lng": 120.3146
+  },
+  {
+    "id": 212,
+    "name": "Bauang Grape Farms",
+    "imageUrl": "http://www.greedypeg.net/p/2016/06/25/41141_1.jpg",
+    "price": 0,
+    "priceCurrency": "km",
+    "lat": 16.4611,
+    "lng": 120.3339
+  },
+   {
+    "id": 213,
+    "name": "Macho Temple",
+    "imageUrl": "http://ttnotes.com/images/macho-pagoda-san-juan-la-union-7.jpg",
+    "price": 0,
+    "priceCurrency": "km",
+    "lat": 16.6212,
+    "lng": 120.3175
+  },
+   {
+    "id": 214,
+    "name": "Christ The Redeemer Statue",
+    "imageUrl": "http://1.bp.blogspot.com/-xag5MxJfzLk/UshCgCKpprI/AAAAAAAAWBQ/2_TxF3squNY/s1600/Ivisan,+Capiz+(1).jpg",
+    "price": 0,
+    "priceCurrency": "km",
+    "lat": 16.6204,
+    "lng": 120.3190
+  },
+   {
+    "id": 215,
+    "name": "Bauang Grape Farms",
+    "imageUrl": "http://www.greedypeg.net/p/2016/06/25/41141_1.jpg",
+    "price": 0,
+    "priceCurrency": "km",
+    "lat": 16.4611,
+    "lng": 120.3339
+  },
+  {
+    "id": 214,
+    "name": "MY HOME ADDRESS",
+    "imageUrl": "http://mw2.google.com/mw-panoramio/photos/medium/47727040.jpg",
+    "price": 0,
+    "priceCurrency": "km",
+    "lat": 16.8447,
+    "lng": 120.4046
+  }
+]
